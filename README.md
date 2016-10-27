@@ -1,4 +1,4 @@
-== Princess Bride Observer Design Pattern Example
+## Princess Bride Observer Design Pattern Example
 
 To run this example clone the repo
 
