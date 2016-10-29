@@ -29,3 +29,5 @@ You should see the `vengeance_observer` being called.
 Congrats you can now go squash some bugs.
 
 Have fun!
+
+***You can find my slides in the slides folder***
